@@ -1,4 +1,4 @@
-# Abhinav Palanivel's First CS 193 Homework 
+# <code style="color : pine green">Abhinav Palanivel's First CS 193 Homework</code> 
 
 ### <code style="color : navy blue">Some of my Favorite Things About CS 193</code>  
 - The fact that CS 193 has no exams.
